@@ -20,4 +20,4 @@ in this project , i build reusable web components with Angular and test it out i
 
 ` npm run build`
 
-` cd /dist`
+` cd /dist/web-component`
