@@ -1,27 +1,23 @@
-# WebComponent
+# Web Components
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
 
-## Development server
+# Concepts and usage
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+in this project , i build reusable web components with Angular and test it out in this repositories github-pages
 
-## Code scaffolding
+# Run
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+` git clone https://github.com/pouyababaie/web-component.git`
 
-## Build
+` cd web-component `
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+` npm i`
 
-## Running unit tests
+` npm run start`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Build 
 
-## Running end-to-end tests
+` npm run build`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+` cd /dist`
